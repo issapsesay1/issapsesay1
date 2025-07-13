@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/issa-sesay/">Issa Sesay</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/issa-sesay-b83144247/">Issa Sesay</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and thrive on solving complex challenges through hands-on, practical projects. From vulnerability management to threat detection, these initiatives have allowed me to explore the ever-evolving cybersecurity landscape in depth. Feel free to explore my work and see how I've contributed to strengthening security operations and improving critical processes.
 
